@@ -6,7 +6,7 @@ Golang logging package
 
 installation
 ------------
-    go get github.com/leesper/holmes
+    go get github.com/chenjingping/holmes
 
 Usage
 -----
